@@ -1,4 +1,4 @@
-# MSc Data Science 1st Semester Coursework on Advanced DataBase using MS SQL Server 2019. 
+# MSc Data Science Coursework on Advanced DataBase using MS SQL Server 2019. 
 <h3>There are two Tasks. Implement your solution to each problem based on tasks’ description.</h3><br />
 <h4>Task 1 (65 marks)</h4><br />
 Imagine you are employed as a database developer consultant for a library. They are currently in the process of developing a new database system which they require for storing information on their members, their library catalogue, loan history and overdue fine repayments. In your initial consultation with the library, you have gathered the information below. Please read the below carefully and continue to the task description.<br />
